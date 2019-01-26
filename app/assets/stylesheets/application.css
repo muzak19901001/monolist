@@ -77,14 +77,14 @@ footer {
   max-width: 100%;
 }
 
-.item-title {
+p.item-title {
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 2;
   overflow: hidden;
 }
 
-.item .button form {
+.item .buttons form {
   display: inline-block;
   margin: 0 5px;
 }
