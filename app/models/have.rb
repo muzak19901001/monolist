@@ -10,7 +10,5 @@
 #  updated_at :datetime         not null
 #
 
-class Ownership < ApplicationRecord
-  belongs_to :user
-  belongs_to :item
+class Have < Ownership
 end
